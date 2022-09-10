@@ -5,7 +5,7 @@
  * main - Determine if a numberbus poitive, negetive or zero.
  *
  * Return: 0
- * */
+ */
 int main(void)
 {
 	int n;
